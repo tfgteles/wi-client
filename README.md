@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+2023-02-05
+https://www.freecodecamp.org/news/use-firebase-authentication-in-a-react-app/
+https://firebase.google.com/docs/auth/web/start#web-version-9
